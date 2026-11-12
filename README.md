@@ -8,8 +8,8 @@ I build tools for studying and playing quizbowl, alongside an Anki collection co
 
 A high-performance study engine, clue extraction pipeline, and flashcard system for academic quizbowl:
 
-- **StockFisher:** Indexes 670,000+ question units across 700+ sets in SQLite with FTS5 to identify recurring stock clues, exclusivity shares, and pyramid positioning.
-- **Buzz Drill:** Real-time client-side tossup simulator with configurable reading speeds and keyboard interrupt buzzing.
+- **StockFisher:** Indexes 670,000+ question units across 700+ sets in SQLite with FTS5 to identify recurring stock clues, exclusivity, and pyramidality.
+- **Buzz Drill:** Real-time tossup simulator with configurable reading speeds and keyboard interrupt buzzing.
 - **Anki Knowledge Base:** 11,921 curated notes and 34,848 cards across fine arts, geography, sciences, and philosophy.
 
 | StockFisher | Anki cards | Buzz Drill |
