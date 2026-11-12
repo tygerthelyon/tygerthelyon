@@ -18,10 +18,12 @@ A high-performance study engine, clue extraction pipeline, and flashcard system 
 
 ---
 
-### [CEDT Health & Safety Website](https://github.com/tygerthelyon/cedt-safety) &middot; [Live Site](https://tygerthelyon.github.io/cedt-safety/)
+### [CEDT Health & Safety Portal](https://github.com/tygerthelyon/cedt-safety) &middot; [Live Site](https://tygerthelyon.github.io/cedt-safety/)
 
-A comprehensive departmental safety resources website developed for the Centre for Emerging Device Technologies (CEDT) and Engineering Physics at McMaster University, adapted from the previous website created by Graham Pearson.
+A comprehensive departmental safety resources portal and laboratory safety handbook developed for the Centre for Emerging Device Technologies (CEDT) and Engineering Physics at McMaster University:
 
-- HTML5, CSS3, and JavaScript.
-- Centralized runtime layout injector (`shared-layout.js`) and full-text search indexing.
-   Python tools for link auditing (`check-links.py`) and automated search index regeneration (`build-search-index.py`).
+- **Zero-Dependency Static Architecture:** Pure HTML5, CSS3, and vanilla JavaScript with instant client-side execution.
+- **Dynamic Layout & Search:** Centralized runtime layout injector (`shared-layout.js`) and client-side full-text search indexing 150+ headings and laboratory safety protocols.
+- **Verification Tooling:** Custom Python tools for link auditing (`check-links.py`) and automated search index regeneration (`build-search-index.py`).
+
+[![CEDT Health and Safety Portal preview](https://raw.githubusercontent.com/tygerthelyon/cedt-safety/main/assets/images/cedt-home-preview.png)](https://tygerthelyon.github.io/cedt-safety/)
