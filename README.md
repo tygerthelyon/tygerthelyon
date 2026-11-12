@@ -1,6 +1,6 @@
 # Carter Yott
 
-I build tools for studying and playing quizbowl, and Anki flashcard decks covering fine arts, physics, philosophy, and world history, among other categories. Somewhat related, I write a trivia blog on [Substack](https://substack.com/@carteryott). 
+I build tools for studying and playing quizbowl, and Anki flashcard decks covering fine arts, physics, philosophy, and world history, among other categories. For inquiries, you can contact me via [email](mailto:carteryott@icloud.com) or [Linkedin](https://www.linkedin.com/in/carteryott). I also write a trivia blog on [Substack](https://substack.com/@carteryott). 
 
 ## Projects
 
