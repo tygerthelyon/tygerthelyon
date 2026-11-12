@@ -1,6 +1,6 @@
 # Carter Yott
 
-I build tools for studying and playing quizbowl, and Anki flashcard decks covering fine arts, physics, philosophy, and world history, among other categories. 
+I build tools for studying and learning various types of information, and Anki flashcard decks covering fine arts, physics, philosophy, and world history, among other subjects. 
 
 For inquiries, you can contact me via [email](mailto:carteryott@icloud.com) or [Linkedin](https://www.linkedin.com/in/carteryott). I also write a trivia blog on [Substack](https://substack.com/@carteryott). 
 
