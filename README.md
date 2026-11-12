@@ -1,7 +1,9 @@
 # Carter Yott
 
-## Projects
 Tools for studying and playing quizbowl, including a large Anki flashcard collection, automated database search algorithm, and buzzer practice.
+
+
+## Projects
 
 **[QBCards & StockFisher](https://github.com/tygerthelyon/qbcards)**
 
