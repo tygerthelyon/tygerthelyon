@@ -1,6 +1,6 @@
 # Carter Yott
 
-I build tools for studying and playing quizbowl, alongside an Anki collection covering fine arts, physics, biology, philosophy, and history, among others.
+I build tools for studying and playing quizbowl, and Anki flashcard decks covering fine arts, physics, philosophy, and world history, among other categories. Somewhat related, I write a trivia blog on [Substack](https://substack.com/@carteryott). 
 
 ## Projects
 
