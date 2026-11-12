@@ -7,9 +7,9 @@ Tools for studying and playing quizbowl, including a large Anki flashcard collec
 
 **[QBCards & StockFisher](https://github.com/tygerthelyon/qbcards)**
 
-- **StockFisher** indexes QBReader questions in SQLite to find recurring clues, compare answerlines, and check coverage against Anki notes.
-- **Buzz Drill** streams tossups word by word and tracks buzz position and self-scored results.
-- **Anki models** support a collection across physics, biology, fine arts, geography, history, and philosophy. I am currently working on adding to these collections.
+- **StockFisher** retrieves QBReader questions via SQLite to find recurring clues, compare answerlines, and check coverage against Anki notes.
+- **Buzz Drill** reads tossups in-stream, tracks buzz position and self-scored results from my closed note collections.
+- **Anki models** physics, biology, fine arts, geography, history, and philosophy. I am currently working on adding to these collections.
 
 As of November 2026, the program contained 11,921 notes, 34,848 cards, and a question mirror with 671,413 answerable units from 716 sets. The repository includes the code, note-type definitions, and selected samples; the full collection and mirror are local.
 
