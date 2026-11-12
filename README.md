@@ -1,16 +1,15 @@
 # Carter Yott
 
-Tools for studying and playing quizbowl, including a large Anki flashcard collection, automated database search algorithm, and buzzer practice.
-
+I build tools for studying and playing quizbowl, alongside an Anki collection covering science, fine arts, history, and more.
 
 ## Projects
 
 **[QBCards & StockFisher](https://github.com/tygerthelyon/qbcards)**
 
-- **[StockFisher](https://github.com/tygerthelyon/qbcards/blob/main/StockFisher.ipynb)** retrieves QBReader questions via SQLite to find recurring clues, compare answerlines, and check coverage against Anki notes.
-- **Buzz Drill** reads tossups in-stream, tracks buzz position and self-scored results from my closed note collections.
-- **Anki models** physics, biology, fine arts, geography, history, and philosophy. I am currently working on adding to these collections.
+- **[StockFisher](https://github.com/tygerthelyon/qbcards/blob/main/StockFisher.ipynb)** searches QBReader questions for recurring clues and compares them with my Anki notes.
+- **Buzz Drill** reads tossups word by word and tracks buzz position and self-scored results.
+- **Anki models** and sample notes show how I organize the collection.
 
-As of November 2026, the program contained 11,921 notes, 34,848 cards, and a question mirror with 671,413 answerable units from 716 sets. The repository includes the code, note-type definitions, and selected samples; the full collection and mirror are local.
+In November 2026, the collection had 11,921 notes and 34,848 cards; the question mirror held 671,413 answerable units from 716 sets. The repository contains code, note types, and samples. The full collection and mirror are local.
 
 [![Buzz Drill setup screen](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/buzz-drill.png)](https://github.com/tygerthelyon/qbcards#buzz-drill)
