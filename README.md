@@ -1,15 +1,15 @@
 # Carter Yott
 
-I build tools for studying and playing quizbowl, alongside an Anki collection covering science, fine arts, history, and more.
+I build tools for studying and playing quizbowl, alongside an Anki collection covering physics, biology, fine arts, and history.
 
 ## Projects
 
-[Quizbowl study tools](https://github.com/tygerthelyon/qbcards)
+- [StockFisher](https://github.com/tygerthelyon/qbcards/blob/main/StockFisher.ipynb) finds recurring clues in QBReader questions and compares them with my Anki notes.
+- [Anki cards](https://github.com/tygerthelyon/qbcards/blob/main/docs/card-gallery.md) include question, image, map, list, and cloze formats across the collection.
+- [Buzz Drill](https://github.com/tygerthelyon/qbcards#buzz-drill) displays tossups word by word and tracks buzz position and practice results.
 
-- [StockFisher](https://github.com/tygerthelyon/qbcards/blob/main/StockFisher.ipynb) searches QBReader questions for recurring clues and compares them with my Anki notes.
-- Buzz Drill reads tossups word by word and tracks buzz position and self-scored results.
-- Anki models and sample notes show how I organize the collection.
+The November 2026 collection contained 11,921 notes and 34,848 cards. The QBReader index held 671,413 answerable units from 716 sets. [Browse the code and examples](https://github.com/tygerthelyon/qbcards).
 
-In November 2026, the collection had 11,921 notes and 34,848 cards; the QBReader index held 671,413 answerable units from 716 sets. The repository contains code, note types, and samples. The full collection and index are local.
-
-[![Buzz Drill setup screen](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/buzz-drill.png)](https://github.com/tygerthelyon/qbcards#buzz-drill)
+| StockFisher | Anki cards |
+| --- | --- |
+| [![StockFisher notebook showing a clue profile](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/stockfisher-notebook.png)](https://github.com/tygerthelyon/qbcards/blob/main/StockFisher.ipynb) | [![Back of an art card](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/cards-v2/art-back.png)](https://github.com/tygerthelyon/qbcards/blob/main/docs/card-gallery.md) |
