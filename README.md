@@ -12,6 +12,6 @@ The November 2026 collection contained 11,921 notes and 34,848 cards. The QBRead
 
 StockFisher uses Python and SQLite full-text search; Buzz Drill runs in the browser with JavaScript.
 
-| StockFisher | Anki cards |
-| --- | --- |
-| [![StockFisher notebook showing a clue profile](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/stockfisher-profile.png)](https://github.com/tygerthelyon/qbcards#stockfisher) | [![Back of the Fur Traders Descending the Missouri card](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/cards-v2/art-back.png?v=fur-traders)](https://github.com/tygerthelyon/qbcards/blob/main/docs/card-gallery.md) |
+| StockFisher | Anki cards | Buzz Drill |
+| --- | --- | --- |
+| [![StockFisher notebook showing a clue profile](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/stockfisher-profile.png)](https://github.com/tygerthelyon/qbcards#stockfisher) | [![Back of the Fur Traders Descending the Missouri card](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/cards-v2/art-back.png?v=fur-traders)](https://github.com/tygerthelyon/qbcards/blob/main/docs/card-gallery.md) | [![Buzz Drill setup and practice interface](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/buzz-drill.png)](https://github.com/tygerthelyon/qbcards#buzz-drill) |
