@@ -4,6 +4,7 @@ I build tools for studying and playing quizbowl, and Anki flashcard decks coveri
 
 For inquiries, you can contact me via [email](mailto:carteryott@icloud.com) or [Linkedin](https://www.linkedin.com/in/carteryott). I also write a trivia blog on [Substack](https://substack.com/@carteryott). 
 
+
 ## Projects
 
 ### [QBCards & StockFisher](https://github.com/tygerthelyon/qbcards)
