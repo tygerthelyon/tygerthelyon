@@ -1,8 +1,8 @@
 # Carter Yott
 
-I build tools for studying and learning various types of information, and Anki flashcard decks covering fine arts, physics, philosophy, and world history, among other subjects. 
+I have created a few tools for studying various things, and Anki flashcard decks covering fine arts, geography, and other subjects. 
 
-For inquiries, you can contact me via [email](mailto:carteryott@icloud.com) or [Linkedin](https://www.linkedin.com/in/carteryott). I also write a trivia blog on [Substack](https://substack.com/@carteryott). 
+For inquiries, you can contact me via [email](mailto:carteryott@icloud.com). I also write a trivia blog on [Substack](https://substack.com/@carteryott). 
 
 
 ## Projects
