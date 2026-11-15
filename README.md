@@ -9,11 +9,11 @@ For inquiries, you can contact me via [email](mailto:carteryott@icloud.com). I a
 
 ### [QBCards & StockFisher](https://github.com/tygerthelyon/qbcards)
 
-A high-performance study engine, clue extraction pipeline, and flashcard system for academic quizbowl:
+A study engine, clue extraction program, and flashcard system for quizbowl:
 
-- **StockFisher:** Indexes 670,000+ question units across 700+ sets in SQLite with FTS5 to identify recurring stock clues, exclusivity, and pyramidality.
-- **Buzz Drill:** Real-time tossup simulator with configurable reading speeds and keyboard interrupt buzzing.
-- **Anki Knowledge Base:** 11,921 curated notes and 34,848 cards across fine arts, geography, sciences, and philosophy, created over a span of five years.
+- **StockFisher:** Indexes 670,000+ question units across 700+ sets from QBReader in SQLite with FTS5 to identify recurring stock clues; it also considers exclusivity and pyramidality.
+- **Buzz Drill:** Real-time tossup simulator based only on clues in your deck, abstracted via open-source questions available on QBReader.
+- **Anki Knowledge Base:** 11,921 notes and 34,848 cards across fine arts, geography, sciences, and philosophy, created over a span of five years.
 
 | StockFisher | Anki cards | Buzz Drill |
 | :---: | :---: | :---: |
