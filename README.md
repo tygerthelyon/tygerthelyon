@@ -1,6 +1,6 @@
 # Carter Yott
 
-I have created a few tools for studying various things, and Anki flashcard decks covering fine arts, geography, and other subjects. 
+I have created a few tools for studying various things, including a common clue retrieval program and a few quite large Anki flashcard decks covering fine arts, geography, and other subjects. 
 
 For inquiries, you can contact me via [email](mailto:carteryott@icloud.com). I also write a trivia blog on [Substack](https://substack.com/@carteryott). 
 
