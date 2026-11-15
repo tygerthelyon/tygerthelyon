@@ -17,7 +17,7 @@ A study engine, clue extraction program, and flashcard system for quizbowl:
 
 | StockFisher | Anki cards | Buzz Drill |
 | :---: | :---: | :---: |
-| [![StockFisher notebook showing a clue profile](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/stockfisher-profile.png)](https://github.com/tygerthelyon/qbcards#stockfisher) | [![Back of the Fur Traders Descending the Missouri card](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/cards-v2/art-back.png?v=fur-traders)](https://github.com/tygerthelyon/qbcards/blob/main/docs/card-gallery.md) | [![Buzz Drill setup and practice interface](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/buzz-drill.png)](https://github.com/tygerthelyon/qbcards#buzz-drill) |
+| [![StockFisher clue research interface](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/stockfisher-app.png?v=20261114)](https://github.com/tygerthelyon/qbcards#stockfisher) | [![Back of the Fur Traders Descending the Missouri card](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/cards-v2/art-back.png?v=fur-traders)](https://github.com/tygerthelyon/qbcards/blob/main/docs/card-gallery.md) | [![Buzz Drill setup and practice interface](https://raw.githubusercontent.com/tygerthelyon/qbcards/main/docs/images/buzz-drill.png)](https://github.com/tygerthelyon/qbcards#buzz-drill) |
 
 ---
 
