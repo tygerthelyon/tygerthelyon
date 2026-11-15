@@ -10,7 +10,7 @@ You can reach me by [email](mailto:carteryott@icloud.com), or read my trivia blo
 
 This repository holds my Anki collection, built up across the last five years or so. As of November 2026, it contains 11,921 notes and 34,848 cards across fine arts, geography, philosophy, history, and the sciences. It also holds two tools:
 
-- [StockFisher](https://github.com/tygerthelyon/qbcards#stockfisher) mirrors 670,000+ question units from 700+ tournament sets on QBReader into a local SQLite/FTS5 database. Give it an answerline and it extracts the recurring stock clues, orders them by importance—weighing frequency, pyramidality, and difficulty alongside answer exclusivity—and diffs the result against your Anki decks so you can see which clues you're missing.
+- [StockFisher](https://github.com/tygerthelyon/qbcards#stockfisher) mirrors 670,000+ question units from 700+ tournament sets on QBReader into a local SQLite/FTS5 database. It takes an answerline and extracts the recurring clues, orders them by importance—weighing frequency, pyramidality, and difficulty alongside answer exclusivity—and diffs the result against your Anki decks so you can see which clues you're missing.
 - [Buzz Drill](https://github.com/tygerthelyon/qbcards#buzz-drill) is a browser-based tossup reader that pulls real tournament questions for the cards in your deck, streams them word by word at your chosen reading speed, and tracks your buzz depth and power rate over time.
 
 | StockFisher | Anki cards | Buzz Drill |
@@ -19,10 +19,10 @@ This repository holds my Anki collection, built up across the last five years or
 
 ---
 
-### [CEDT Health & Safety Portal](https://github.com/tygerthelyon/cedt-safety) — [Live Site](https://tygerthelyon.github.io/cedt-safety/)
+### [CEDT Health & Safety Portal](https://github.com/tygerthelyon/cedt-safety) • [Live Site](https://tygerthelyon.github.io/cedt-safety/)
 
-The laboratory safety handbook and emergency reference site for the Centre for Emerging Device Technologies (CEDT) and the Department of Engineering Physics at McMaster University.
+The health & safety site for the Centre for Emerging Device Technologies (CEDT) and the Department of Engineering Physics at McMaster University.
 
-Built as a fast, plain HTML/CSS/JS site with no framework dependencies so someone looking up an HF acid spill procedure or laser interlock rule isn't waiting on a bundler. Includes a shared client-side layout script across all 34 safety sections, instant full-text search over 150+ protocols and headings, and Python scripts to audit internal links and rebuild the search index.
+Built as a fast, plain HTML/CSS/JS site with no dependencies. Includes a shared layout script across 34 safety sections, full-text search over 150+ protocols and headings, and Python scripts to audit internal links and rebuild the search index.
 
 [![CEDT Health and Safety Portal preview](https://raw.githubusercontent.com/tygerthelyon/cedt-safety/main/assets/images/cedt-home-preview.png)](https://tygerthelyon.github.io/cedt-safety/)
