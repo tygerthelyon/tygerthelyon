@@ -2,7 +2,7 @@
 
 I make tools to improve how I study, such as a quizbowl clue-retrieval program and a few Anki flashcard decks.
 
-You can reach me by [email](mailto:carteryott@icloud.com), or read my trivia blog on [Substack](https://substack.com/@carteryott).
+If you have any questions, you can contacat me by [email](mailto:carteryott@icloud.com). I also write a trivia blog on [Substack](https://substack.com/@carteryott).
 
 ## Projects
 
