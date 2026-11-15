@@ -21,7 +21,7 @@ A study engine, clue extraction program, and flashcard system for quizbowl:
 
 ---
 
-### [CEDT Health & Safety Portal](https://github.com/tygerthelyon/cedt-safety) &middot; [Live Site](https://tygerthelyon.github.io/cedt-safety/)
+### [CEDT Health & Safety Portal](https://github.com/tygerthelyon/cedt-safety) • [Live Site](https://tygerthelyon.github.io/cedt-safety/)
 
 A comprehensive departmental safety resources portal and laboratory safety handbook developed for the Centre for Emerging Device Technologies (CEDT) and Engineering Physics at McMaster University:
 
