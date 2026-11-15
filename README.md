@@ -12,7 +12,7 @@ Quizbowl tossups follow a strict convention: clues start obscure and get progres
 
 This repository holds my five-year Anki collection (11,921 notes and 34,848 cards across fine arts, geography, philosophy, history, and the sciences) along with two tools built around it:
 
-- [StockFisher](https://github.com/tygerthelyon/qbcards#stockfisher) mirrors 670,000+ question units from 700+ tournament sets on QBReader into a local SQLite/FTS5 database. Give it an answerline and it extracts the recurring stock clues, orders them by importance?weighing frequency, pyramidal position, and difficulty alongside answer exclusivity?and diffs the result against your Anki decks so you can see which clues you're missing.
+- [StockFisher](https://github.com/tygerthelyon/qbcards#stockfisher) mirrors 670,000+ question units from 700+ tournament sets on QBReader into a local SQLite/FTS5 database. Give it an answerline and it extracts the recurring stock clues, orders them by importance—weighing frequency, pyramidal position, and difficulty alongside answer exclusivity—and diffs the result against your Anki decks so you can see which clues you're missing.
 - [Buzz Drill](https://github.com/tygerthelyon/qbcards#buzz-drill) is a browser-based tossup reader that pulls real tournament questions for the cards in your deck, streams them word by word at your chosen reading speed, and tracks your buzz depth and power rate over time.
 
 | StockFisher | Anki cards | Buzz Drill |
@@ -21,7 +21,7 @@ This repository holds my five-year Anki collection (11,921 notes and 34,848 card
 
 ---
 
-### [CEDT Health & Safety Portal](https://github.com/tygerthelyon/cedt-safety) ? [Live Site](https://tygerthelyon.github.io/cedt-safety/)
+### [CEDT Health & Safety Portal](https://github.com/tygerthelyon/cedt-safety) — [Live Site](https://tygerthelyon.github.io/cedt-safety/)
 
 The laboratory safety handbook and emergency reference site for the Centre for Emerging Device Technologies (CEDT) and the Department of Engineering Physics at McMaster University.
 
