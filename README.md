@@ -8,11 +8,9 @@ You can reach me by [email](mailto:carteryott@icloud.com), or read my trivia blo
 
 ### [QBCards & StockFisher](https://github.com/tygerthelyon/qbcards)
 
-Quizbowl tossups follow a strict convention: clues start obscure and get progressively more famous until the giveaway at the end. When you study a new topic, the hard part is figuring out which clues actually come up in tournaments, how early in the question they appear, and whether they belong to high school packets or open-level play.
+This repository holds my Anki collection, built up across the last five years or so. As of November 2026, it contains 11,921 notes and 34,848 cards across fine arts, geography, philosophy, history, and the sciences. It also holds two tools:
 
-This repository holds my five-year Anki collection (11,921 notes and 34,848 cards across fine arts, geography, philosophy, history, and the sciences) along with two tools built around it:
-
-- [StockFisher](https://github.com/tygerthelyon/qbcards#stockfisher) mirrors 670,000+ question units from 700+ tournament sets on QBReader into a local SQLite/FTS5 database. Give it an answerline and it extracts the recurring stock clues, orders them by importance—weighing frequency, pyramidal position, and difficulty alongside answer exclusivity—and diffs the result against your Anki decks so you can see which clues you're missing.
+- [StockFisher](https://github.com/tygerthelyon/qbcards#stockfisher) mirrors 670,000+ question units from 700+ tournament sets on QBReader into a local SQLite/FTS5 database. Give it an answerline and it extracts the recurring stock clues, orders them by importance—weighing frequency, pyramidality, and difficulty alongside answer exclusivity—and diffs the result against your Anki decks so you can see which clues you're missing.
 - [Buzz Drill](https://github.com/tygerthelyon/qbcards#buzz-drill) is a browser-based tossup reader that pulls real tournament questions for the cards in your deck, streams them word by word at your chosen reading speed, and tracks your buzz depth and power rate over time.
 
 | StockFisher | Anki cards | Buzz Drill |
