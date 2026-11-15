@@ -1,6 +1,6 @@
 # Carter Yott
 
-Engineering Physics at McMaster. Outside of the lab, I spend a lot of time on quizbowl, flashcards, and building small tools to make studying less of a guessing game.
+I make tools to improve how I study, such as a quizbowl clue-retrieval program and a few Anki flashcard decks.
 
 You can reach me by [email](mailto:carteryott@icloud.com), or read my trivia blog on [Substack](https://substack.com/@carteryott).
 
