@@ -13,7 +13,7 @@ A study engine, clue extraction program, and flashcard system for quizbowl:
 
 - **StockFisher:** Indexes 670,000+ question units across 700+ sets from QBReader in SQLite with FTS5 to identify recurring stock clues; it also considers exclusivity and pyramidality.
 - **Buzz Drill:** Real-time tossup simulator based only on clues in your deck, abstracted via open-source questions available on QBReader.
-- **Anki Knowledge Base:** 11,921 notes and 34,848 cards across fine arts, geography, sciences, and philosophy, created over a span of five years.
+- **Anki Decks:** 11,921 notes and 34,848 cards across fine arts, geography, sciences, and philosophy, created over a span of five years.
 
 | StockFisher | Anki cards | Buzz Drill |
 | :---: | :---: | :---: |
